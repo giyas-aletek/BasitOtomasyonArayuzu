@@ -1,0 +1,5 @@
+Sicil_NO , anabilim , unvan , ad , soyad , eposta , telefon
+1234/yazilim/Prof.Dr/fatih/ozkaynak/fatih@firat.edu.tr/0532215464 
+1234/Bilgisayar/Prof.Dr/ilhan/aydin/iaydin@firat.edu.tr/0532215464 
+2222/yazilim/Doc.Dr/ahmet/Ali/aAli@firat.edu.tr/05343536373
+123/aaa/aaa/ddd/ddd/dddd/2222

@@ -1,0 +1,6 @@
+program calisabilmesi icin
+veriTaban Dosyasi E:\\ surucune kopyalanmasi gerek
+ogrenci ve akademisyen ve idari kullanci adi ve giris bilgileri dosyalar icinde tutuldu
+ornegin admin giris biligileri
+user name : Admin
+Password : P@ssw00rd#admin

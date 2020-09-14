@@ -1,0 +1,5 @@
+Ogrenci_NO , Adi , Soyadi , Bolumu , Kayit_Yili , eMaili , Telefonu
+180180180/bodour/al-khatib/yazilim/2018/bodour@gmail.com/0555555555
+180260609/ss/ee/insaat/2017/180260609@firat.edu.tr/05111111111
+1620/Ghhh/aaaa/Bil/2017/kjaksj@gj/05555555555
+

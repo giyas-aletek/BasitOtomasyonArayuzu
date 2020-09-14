@@ -1,0 +1,6 @@
+Ogrenci_NO , Adi , Soyadi , Bolumu , Kayit_Yili , eMaili , Telefonu
+01/ Ghia/ Aletek / Bilgisayar / 2016 / 16260122@firat.edu.tr / 05366307097
+170260602 / Mahmud / Ebubekir / Yazilim / 2017 / 170260602@firat.edu.tr / 05333333333
+180260609 / Sait / elatik / insaat  / 2018 / 180260609@firat.edu.tr / 05111111111
+1620 / Ghhh  / aaaa  / Bil /  2017 /  kjaksj@gj /  05555555555
+46/mmm/mmm/mmmm/222/dddd/899
