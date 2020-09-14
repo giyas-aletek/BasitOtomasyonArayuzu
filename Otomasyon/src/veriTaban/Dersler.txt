@@ -1,0 +1,6 @@
+DersKodu , DersIsim , SorumluHoca
+YMH111/Algoritma_1/Fatih_Ozkaynak
+YMH113/B_B_Giris/ilhan_Aydin
+YMH115/YMO/ilhan_Aydin
+YMH112/Algoritma_2/Fatih_Ozkaynak
+YMH114/YMT/Fatih_Ozkaynak
